@@ -80,3 +80,14 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+
+    background-color: #22245a;
+}
