@@ -10,7 +10,8 @@ html {
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
-img {
+img,
+video {
     width: 255px;
     height: 255px;
     object-fit: cover;
