@@ -68,7 +68,7 @@ video {
 
 /* 卡片悬浮效果 */
 .topic-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-8px);
 }
 
 /* Styling for the topic card titles */
