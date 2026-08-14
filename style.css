@@ -63,6 +63,12 @@ video {
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+/* 卡片悬浮效果 */
+.topic-card:hover {
+  transform: translateY(-2px);
 }
 
 /* Styling for the topic card titles */
