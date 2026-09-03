@@ -5,9 +5,8 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Arial, sans-serif;
-    box-sizing: border-box;
     font-family: "Dancing Script", cursive;
+    box-sizing: border-box;
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
