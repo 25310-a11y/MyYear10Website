@@ -74,11 +74,11 @@ video {
 
 /* Styling for the topic card titles */
 .topic-card-text{
+    font-family: "Playball", cursive;
     font-size: 1.5em;
     margin-bottom: 0.5em;
     /* center align text */
     text-align: center;
-    font-family: "Playball", cursive;
 }
 
 
