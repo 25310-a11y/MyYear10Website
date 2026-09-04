@@ -35,6 +35,7 @@ video {
 .hero-text {
     font-size: 4em;
     font-weight: bold;
+    font-family: "Playball", cursive;
 }
 
 /* nice big font on a banner style background */
@@ -74,7 +75,6 @@ video {
 
 /* Styling for the topic card titles */
 .topic-card-text{
-    font-family: "Playball", cursive;
     font-size: 1.5em;
     margin-bottom: 0.5em;
     /* center align text */
