@@ -45,6 +45,7 @@ video {
     padding: 0.1em 3em;
     background-color: rgb(16, 16, 53);
     font-family: "Dancing Script", cursive;
+    font-weight: 400;
 }
 
 /* Three column grid with a nice big gap */
