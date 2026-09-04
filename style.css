@@ -75,8 +75,12 @@ video {
 
 /* Styling for the topic card titles */
 .topic-card-text{
+    font-family: "Noto Serif Display", serif;
     font-size: 1.5em;
     margin-bottom: 0.5em;
+    font-weight: 172;
+    font-variation-settings:
+      "wdth" 63.4;
     /* center align text */
     text-align: center;
 }
